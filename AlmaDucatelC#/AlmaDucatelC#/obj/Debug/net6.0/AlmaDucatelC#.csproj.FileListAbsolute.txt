@@ -1,0 +1,17 @@
+C:\Users\CS\source\repos\AlmaDucatelC#\AlmaDucatelC#\bin\Debug\net6.0\AlmaDucatelC#.exe
+C:\Users\CS\source\repos\AlmaDucatelC#\AlmaDucatelC#\bin\Debug\net6.0\AlmaDucatelC#.deps.json
+C:\Users\CS\source\repos\AlmaDucatelC#\AlmaDucatelC#\bin\Debug\net6.0\AlmaDucatelC#.runtimeconfig.json
+C:\Users\CS\source\repos\AlmaDucatelC#\AlmaDucatelC#\bin\Debug\net6.0\AlmaDucatelC#.dll
+C:\Users\CS\source\repos\AlmaDucatelC#\AlmaDucatelC#\bin\Debug\net6.0\AlmaDucatelC#.pdb
+C:\Users\CS\source\repos\AlmaDucatelC#\AlmaDucatelC#\obj\Debug\net6.0\AlmaDucatelC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CS\source\repos\AlmaDucatelC#\AlmaDucatelC#\obj\Debug\net6.0\AlmaDucatelC#.AssemblyInfoInputs.cache
+C:\Users\CS\source\repos\AlmaDucatelC#\AlmaDucatelC#\obj\Debug\net6.0\AlmaDucatelC#.AssemblyInfo.cs
+C:\Users\CS\source\repos\AlmaDucatelC#\AlmaDucatelC#\obj\Debug\net6.0\AlmaDucatelC#.csproj.CoreCompileInputs.cache
+C:\Users\CS\source\repos\AlmaDucatelC#\AlmaDucatelC#\obj\Debug\net6.0\AlmaDucatelC#.dll
+C:\Users\CS\source\repos\AlmaDucatelC#\AlmaDucatelC#\obj\Debug\net6.0\refint\AlmaDucatelC#.dll
+C:\Users\CS\source\repos\AlmaDucatelC#\AlmaDucatelC#\obj\Debug\net6.0\AlmaDucatelC#.pdb
+C:\Users\CS\source\repos\AlmaDucatelC#\AlmaDucatelC#\obj\Debug\net6.0\AlmaDucatelC#.genruntimeconfig.cache
+C:\Users\CS\source\repos\AlmaDucatelC#\AlmaDucatelC#\obj\Debug\net6.0\ref\AlmaDucatelC#.dll
+C:\Users\alma2\OneDrive\Bureau\AlmaDucatelC#\AlmaDucatelC#\obj\Debug\net6.0\AlmaDucatelC#.dll
+C:\Users\alma2\OneDrive\Bureau\AlmaDucatelC#\AlmaDucatelC#\obj\Debug\net6.0\refint\AlmaDucatelC#.dll
+C:\Users\alma2\OneDrive\Bureau\AlmaDucatelC#\AlmaDucatelC#\obj\Debug\net6.0\AlmaDucatelC#.pdb
